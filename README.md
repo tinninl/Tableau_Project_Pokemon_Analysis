@@ -5,6 +5,8 @@ Overview
 This project demonstrates the creation of an interactive Pokemon dashboard using Tableau for
 data visualisation and SQL for data analysis and exploration. The dashboard insights to various Pokemon attributes, such as its type(s) and stats, as well changes to Pokemon across the generations of the Pokemon games.
 
+Final Result: https://public.tableau.com/app/profile/tinnon.luong/viz/Pokemon_Dashboard_17399959265980/Story1
+
 What We Learn
 
 Tableau Public: Learning the fundamental skills we need to build creative and interactive
